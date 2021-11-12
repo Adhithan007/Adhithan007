@@ -70,7 +70,7 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 <a href="https://www.linkedin.com/in/adhithan-pushparaj-542a87190/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.nkabilan3@gmail.com">
+<a href="https://www.adhithanpushparaj@gmail.com">
   <img align="left" alt="Gmail" width="23px" src="assets/Gmail_logo.svg" />
 </a>
 
