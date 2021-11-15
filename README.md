@@ -34,7 +34,6 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-311C87?style=flat-square&logo=Tensorflow&logoColor=white" />
  <img alt="Keras" src="https://img.shields.io/badge/-Keras-430098?style=flat-square&logo=keras&logoColor=white" />
  
- <img alt="Cryptography" src="https://img.shields.io/badge/-Cryptography-764ABC?style=flat-square&logo=bitcoin&logoColor=white" />
  <img alt="BigData Analytics" src="https://img.shields.io/badge/-BigData Analytics-B7178C?style=flat-square&logo=simple-analytics&logoColor=white" />
  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=flat-square&logo=mysql&logoColor=white" />
  
