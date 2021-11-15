@@ -51,8 +51,7 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
  <img alt="scikit learn" src="https://img.shields.io/badge/-scikit learn-F7B93E?style=flat-square&logo=scikit-learn&logoColor=white" />
  
  <img alt="Robotics" src="https://img.shields.io/badge/-Robotics-13aa52?style=flat-square&logo=Private-Internet-Access&logoColor=white" />
- <img alt="Blog" src="https://img.shields.io/badge/-Blog-43853d?style=flat-square&logo=blogger&logoColor=white" />
- <img alt="git" src="https://img.shields.io/badge/-Git-024b30?style=flat-square&logo=git&logoColor=white" />
+
 </p>
 <br>
 
